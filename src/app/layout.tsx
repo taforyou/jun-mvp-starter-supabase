@@ -15,40 +15,40 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jun MVP Starter",
+  title: "Jun MVP Starter • migrated by taforyou",
   description:
-    "Go production in minutes with Next.js, Line Login, and Firebase",
+    "Go production in minutes with Next.js, Line Login, and Supabase",
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_APP_URL || "https://jun-mvp-starter.web.app"
+    process.env.NEXT_PUBLIC_APP_URL || "https://jun-mvp-starter-supabase.pages.dev"
   ),
   openGraph: {
     type: "website",
-    title: "Jun MVP Starter",
+    title: "Jun MVP Starter • migrated by taforyou",
     description:
-      "Go production in minutes with Next.js, Line Login, and Firebase",
+      "Go production in minutes with Next.js, Line Login, and Supabase",
     images: [
       {
         url: "/banner.png",
         width: 1200,
         height: 630,
-        alt: "Jun MVP Starter - Go production in minutes",
+        alt: "Jun MVP Starter • migrated by taforyou - Go production in minutes",
       },
     ],
-    siteName: "Jun MVP Starter",
+    siteName: "Jun MVP Starter • migrated by taforyou",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Jun MVP Starter",
+    title: "Jun MVP Starter • migrated by taforyou",
     description:
-      "Go production in minutes with Next.js, Line Login, and Firebase",
+      "Go production in minutes with Next.js, Line Login, and Supabase",
     images: ["/banner.png"],
     creator: "@siriwatknp",
   },
   other: {
     "line:card": "summary_large_image",
-    "line:title": "Jun MVP Starter",
+    "line:title": "Jun MVP Starter • migrated by taforyou",
     "line:description":
-      "Go production in minutes with Next.js, Line Login, and Firebase",
+      "Go production in minutes with Next.js, Line Login, and Supabase",
     "line:image": "/banner.png",
   },
 };

@@ -14,7 +14,7 @@ The starter provides you:
 ## Demo
 
 You can try the demo here for firebase: [Jun MVP starter demo](https://jun-mvp-starter.pages.dev)
-You can try the demo here for supabase: [Jun MVP starter demo](https://jun-mvp-starter-supabase.pages.dev)
+You can try the demo here for supabase: [Jun MVP starter supabase demo](https://jun-mvp-starter-supabase.pages.dev)
 
 <!-- TODO: add a video -->
 

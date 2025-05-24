@@ -195,7 +195,7 @@ export default function Dashboard() {
               </a>
 
               <a
-                href="https://github.com/siriwatknp/jun-mvp-starter/"
+                href="https://github.com/taforyou/jun-mvp-starter-supabase"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-gray-100 hover:bg-gray-200 transition-colors text-sm font-bold"
